@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58101BE1-B57A-4B9C-88DA-92884DFDD9D7}|..\\_LeetCode\\_LeetCode.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\_leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\composedinvoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\answers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\addressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\invoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E602AFE-636A-4E43-A9A8-C17C81B0E73B}|..\\Submission3\\Submission3.csproj|d:\\desktop\\desktop2\\simulation .netadvanced\\session gittttt\\assignment 4\\submission3\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\_LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "..\\_LeetCode\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\_LeetCode\\Program.cs",
+              "RelativeToolTip": "..\\_LeetCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:44:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Answers.md",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Answers.md",
+              "RelativeDocumentMoniker": "..\\Submission3\\Answers.md",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Answers.md",
+              "RelativeToolTip": "..\\Submission3\\Answers.md",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T18:57:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Submission3\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Program.cs",
+              "RelativeToolTip": "..\\Submission3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:55:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\Submission3\\Invoice.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\Invoice.cs",
+              "RelativeToolTip": "..\\Submission3\\Invoice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:54:42.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComposedInvoiceBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\ComposedInvoiceBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Submission3\\ComposedInvoiceBuilder.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\ComposedInvoiceBuilder.cs",
+              "RelativeToolTip": "..\\Submission3\\ComposedInvoiceBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:54:05.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\AddressBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Submission3\\AddressBuilder.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\AddressBuilder.cs",
+              "RelativeToolTip": "..\\Submission3\\AddressBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:45:02.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\InvoiceBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Submission3\\InvoiceBuilder.cs",
+              "ToolTip": "D:\\Desktop\\Desktop2\\Simulation .NetAdvanced\\session Gittttt\\assignment 4\\Submission3\\InvoiceBuilder.cs",
+              "RelativeToolTip": "..\\Submission3\\InvoiceBuilder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:44:34.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
